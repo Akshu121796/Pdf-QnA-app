@@ -7,5 +7,7 @@ langchain-google-genai>=0.0.7
 faiss-cpu>=1.7.4
 nest-asyncio>=1.5.8
 google-generativeai>=0.3.2
+langchain-community
+
 
 # use pip install -r requirements.txt
